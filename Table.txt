@@ -1,0 +1,76 @@
+<!DocType>
+<html>
+<head>
+<title>
+TimeTable
+</title>
+</head>
+<body>
+<table border=3 bgcolor='white' width=1400 height=600>
+<thead>
+<tr align="center">
+<td><h1>DAY</h1></td>
+<td><h1>7:30-8:20</h1></td>
+<td><h1>8:20-9:10</h1></td>
+<td><h1>9:10-10:00</h1></td>
+<td><h1>10:00-10:30</h1></td>
+<td><h1>10:30-11:20</h1></td>
+<td><h1>11:20-12:10</h1></td>
+<td><h1>12:10-1:00</h1></td>
+</tr>
+</thead>
+<tr align="center">
+<td><h1>Monday</h1></td>
+<td><h2></h2></td>
+<td><h2>MFS/MFD</h2></td>
+<td><h2>DAA</h2></td>
+<td rowspan="6">BREAK<h2></h2></td>
+<td colspan="2"><h2>TE</h2></td>
+<td><h2></h2></td>
+</tr>
+<tr align="center">
+<td><h1>Tuesday</h1></td>
+<td colspan="3"><h2>KALI LAB/R LAB</h2></td>
+<td><h2>WT</h2></td>
+<td><h2>DAA</h2></td>
+<td><h2></h2></td>
+</tr>
+<tr align="center">
+<td><h1>Wednesday</h1></td>
+<td><h2>MFS/MFD</h2></td>
+<td><h2>DAA</h2></td>
+<td><h2></h2></td>
+<td colspan="3"><h2>RDBMS LAB/WT LAB</h2></td>
+</tr>
+<tr align="center">
+<td><h1>Thursday</h1></td>
+<td colspan="3"><h2>WT LAB/RDBMS LAB</h2></td>
+<td><h2>TE</h2></td>
+<td><h2>WT</h2></td>
+<td><h2>DBMS</h2></td>
+</tr>
+<tr align="center">
+<td><h1>Friday</h1></td>
+<td><h2>DAA</h2></td>
+<td colspan="2"><h2>DBMS</h2></td>
+<td><h2>WT</h2></td>
+<td><h2>KALI/R</h2></td>
+<td><h2>MFS/MFD</h2></td>
+</tr>
+<tr align="center">
+<td><h1>Saturday</h1></td>
+<td><h1></h1></td>
+<td><h1></h1></td>
+<td><h2>WT</h2></td>
+<td><h2>KALI/R</h2></td>
+<td><h2>MFS/MFD</h2></td>
+<td><h2>DBMS</h2></td>
+</tr>
+<tfoot>
+<tr>
+<td colspan="3"><h5>this is the table</h5></td>
+</tr>
+</tfoot>
+</table>
+</body>
+</html>
